@@ -5,7 +5,7 @@ Installation: "Clone the repo and run pip install -r requirements.txt."
 
 Usage: "Run python main.py to train the model and generate plots."
 
-Results: Embed images: ![Predicted Solution](solution.png)
+Results:
 Math/Equations: $$\frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu \frac{\partial^2 u}{\partial x^2}$$
 
 Contributing/Issues: Add sections for future improvements.
